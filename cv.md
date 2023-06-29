@@ -1,20 +1,22 @@
 # Contact information
 
 
+
 | | Aleksey Cherkas|
 |------|:----:|
-| ![My photo](./f13135c9fed8bacf7d666f59f4bf28e85cb9e5ec_full.jpg)  |  [![Static Badge](https://img.shields.io/badge/My-Email-red)](Aleksey.cherkas99@gmail.com) [![Static Badge](https://img.shields.io/badge/My-Telegram-blue)](https://t.me/GenryMilligan) [![Static Badge](https://img.shields.io/badge/My-VK-lightblue)](https://vk.com/aleksey_poster)|
+| ![My photo](./f13135c9fed8bacf7d666f59f4bf28e85cb9e5ec_full.jpg)  |  [![Static Badge](https://img.shields.io/badge/Email-red)](Aleksey.cherkas99@gmail.com) [![Static Badge](https://img.shields.io/badge/Telegram-blue)](https://t.me/GenryMilligan) [![Static Badge](https://img.shields.io/badge/VK-lightblue)](https://vk.com/aleksey_poster) [![Static Badge](https://img.shields.io/badge/Discord-lightgray)](discordapp.com/users/708753695311134730)| 
+
 
 # About
 
-When I was young - 13 yeas old, I made My firs program. It was *Hello World* on the language Java. From this point, I try to find My place in the Information Technologies industry. Now I 24 years old and I worked like designer, typographer, programmer, software tester and moderator. In My opinion, Front-end developer job include all what I prefer in My last jobs. 
+When I was young - 13 yeas old, I made My first program. It was *Hello World* on the language Java. From this point I try to find My place in the Information Technologies industry. Now I 24 years old and I worked like designer, typographer, programmer, software tester and moderator. In My opinion, Frontend developer job include all what I prefer in My last jobs. 
 
 # Knowledges
 
-1. Front-end
+1. Frontend
     * HTML, CSS, JavaScript
     * Photoshop, Inkscape
-2. Back-end
+2. Backend
     * Linux basics
     * Docker + Portainer
 
@@ -54,7 +56,7 @@ function nbYear(p0, percent, aug, p) {
   return yearCou;
 }
 ```
-### .Map() function case
+### .map() function case
 
 ```
 String.prototype.toAlternatingCase = function () {
@@ -117,7 +119,6 @@ function rot13(correspondance) {
 |:----------:|:-------:|
 | Simple project what solve simple quastion|More harder to make, but easy to use|
 
-*You can click on both of projects*:point_up:
 
 # Education
 1. College of communication in Brest
@@ -126,12 +127,14 @@ function rot13(correspondance) {
     - [Responsive Web Design](https://freecodecamp.org/certification/TheRedMan/responsive-web-design)
     - [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/TheRedMan/javascript-algorithms-and-data-structures)
 
+[MORE INFO HERE]: #
+
 # English level
 I hope my english on B2 level. Officially I never take the exam. 
 
 
-
-<style>
+[ADD MORE STYLE FOR BORDERS]: #
+<style> 
     button {
         font-family: sans-serif;
         height: 3em;
