@@ -115,7 +115,7 @@ function rot13(correspondance) {
 
 # Projects
 
-|[<button>Landing<br>Page</button>](https://robingooze.github.io/csb-kyvldt/)|[<button>Ceasar Cipher<br>Page</button>](https://robingooze.github.io/csb-5bco2b/)|
+|[Landing Page](https://robingooze.github.io/csb-kyvldt/)|[Ceasar Cipher Page](https://robingooze.github.io/csb-5bco2b/)|
 |:----------:|:-------:|
 | Simple project what solve simple quastion|More harder to make, but easy to use|
 
@@ -127,17 +127,6 @@ function rot13(correspondance) {
     - [Responsive Web Design](https://freecodecamp.org/certification/TheRedMan/responsive-web-design)
     - [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/TheRedMan/javascript-algorithms-and-data-structures)
 
-[MORE INFO HERE]: #
 
 # English level
-I hope my english on B2 level. Officially I never take the exam. 
-
-
-[ADD MORE STYLE FOR BORDERS]: #
-<style> 
-    button {
-        font-family: sans-serif;
-        height: 3em;
-        width: 20em;
-    }
-</style>
+I hope my English on B2 level. Officially, I never take the exam. When I study in Brno I had some English practice with native speaker and I had roommate who spoke English.
