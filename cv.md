@@ -9,7 +9,7 @@
 
 # About
 
-When I was young - 13 yeas old, I made My first program. It was *Hello World* on the language Java. From this point I try to find My place in the Information Technologies industry. Now I 24 years old and I worked like designer, typographer, programmer, software tester and moderator. In My opinion, Frontend developer job include all what I prefer in My last jobs. 
+When I was young - 13 years old, I made my first program. It was "Hello, World!" in the Java language. From that point on, I tried to find my place in the information technology industry. Now I am 24 years old, and I have worked as a designer, typographer, programmer, software tester, and moderator. In my opinion, a frontend developer job encompasses everything I have enjoyed in my previous roles.
 
 # Knowledges
 
@@ -129,4 +129,4 @@ function rot13(correspondance) {
 
 
 # English level
-I hope my English on B2 level. Officially, I never take the exam. When I study in Brno I had some English practice with native speaker and I had roommate who spoke English.
+I hope my English is at a B2 level. Officially, I have never taken the exam. When I was studying in Brno, I had some English practice with a native speaker, and I also had a roommate who spoke English.
