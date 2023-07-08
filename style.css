@@ -57,6 +57,10 @@ nav li a {
   text-decoration: none;
 }
 
+table ul {
+  list-style: none;
+}
+
 nav ul {
   display: flex;
   justify-content: space-around;
