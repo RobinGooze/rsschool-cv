@@ -17,7 +17,6 @@ header {
 
 main {
   position: absolute;
-  top: 6%;
   width: 60%;
   z-index: -1;
 }
@@ -39,8 +38,8 @@ div {
 }
 
 table {
+  margin-top: 40px;
   width: 100%;
-  text-align: center;
 }
 
 h2 {
